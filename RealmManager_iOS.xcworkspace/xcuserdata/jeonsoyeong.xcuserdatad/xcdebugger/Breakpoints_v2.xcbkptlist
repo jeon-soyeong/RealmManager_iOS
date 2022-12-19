@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7103E4C4-DA44-4561-9B12-4CC4E9B7F611"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFB7E7F1-2541-41D5-9BF6-0876EE5A7136"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmManager_iOSTests/RealmManager_iOSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "936DEED0-F1D8-4BCC-B76B-264D915A227D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmManager_iOSTests/RealmManager_iOSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "936DEED0-F1D8-4BCC-B76B-264D915A227D - 477f617fe123b438"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.RealmManager_iOSTests.test_give() throws -&gt; ()"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "245">
+               </Location>
+               <Location
+                  uuid = "936DEED0-F1D8-4BCC-B76B-264D915A227D - 477f617fe123b530"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.RealmManager_iOSTests.test_give() throws -&gt; ()"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58081BD0-FA33-4BB0-9815-9534E6C99E59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmManager_iOSTests/RealmManager_iOSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "RealmManager_iOSTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D69895D2-6319-4A47-8325-6274DC7514D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmManager_iOSTests/RealmManager_iOSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "RealmManager_iOSTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - eabcfe1c9f5eb364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.getter : RealmManager_iOSTests.RealmManager"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 8e3d7ec0d0f8ab68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.setter : RealmManager_iOSTests.RealmManager"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 6397cac051c20179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.modify : RealmManager_iOSTests.RealmManager"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 4baffbc0b1d788ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.modify : RealmManager_iOSTests.RealmManager with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - e6e2b72648f4cd52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - d7c4dbb163faf3b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(selector: ObjectiveC.Selector) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 9ffb6618b4127c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init() -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - e6e2b72648f4cd52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - d7c4dbb163faf3b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(selector: ObjectiveC.Selector) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 9ffb6618b4127c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init() -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 581e5d605cc68c59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.getter : Swift.Optional&lt;RealmManager_iOSTests.RealmManager&gt;"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 98c0f0d9087ea84d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.setter : Swift.Optional&lt;RealmManager_iOSTests.RealmManager&gt;"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - e9e5581be81c675a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.modify : Swift.Optional&lt;RealmManager_iOSTests.RealmManager&gt;"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - a34e60c4c5444990"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.realmManager.modify : Swift.Optional&lt;RealmManager_iOSTests.RealmManager&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - e6e2b72648f4cd52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - d7c4dbb163faf3b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(selector: ObjectiveC.Selector) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 9ffb6618b4127c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init() -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - e6e2b72648f4cd31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - d7c4dbb163faf3d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init(selector: ObjectiveC.Selector) -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "D69895D2-6319-4A47-8325-6274DC7514D9 - 9ffb6618b4127cee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.init() -&gt; RealmManager_iOSTests.Realm_iOSTests"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "63">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC1D1109-9EE3-416B-83BA-99FB2F1A194C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmManager_iOSTests/RealmManager_iOSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "test_givenRealmManager_whenSaveData_ThenSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC1D1109-9EE3-416B-83BA-99FB2F1A194C - c345b299ef031ea5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOS.Realm_iOSTests.testExample() throws -&gt; ()"
+                  moduleName = "RealmManager_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  uuid = "EC1D1109-9EE3-416B-83BA-99FB2F1A194C - 2b8b6509bcdc58d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.testExample() throws -&gt; ()"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "291208B6-99C7-4F2A-82F1-36B8E4D88F52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmManager_iOSTests/RealmManager_iOSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "test_givenRealmManager_whenSaveData_ThenSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "291208B6-99C7-4F2A-82F1-36B8E4D88F52 - c345b299ef031ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOS.Realm_iOSTests.testExample() throws -&gt; ()"
+                  moduleName = "RealmManager_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1019">
+               </Location>
+               <Location
+                  uuid = "291208B6-99C7-4F2A-82F1-36B8E4D88F52 - 2b8b6509bcdc5897"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmManager_iOSTests.Realm_iOSTests.testExample() throws -&gt; ()"
+                  moduleName = "RealmManager_iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeonsoyeong/Desktop/Development/RealmManager_iOS/RealmManager_iOSTests/RealmManager_iOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1019">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
